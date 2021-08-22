@@ -549,7 +549,7 @@ header .navbar a:hover {
         border-left: .5rem solid var(--red);
         background: #fff;
     }
-}
+} 
 
 @media(max-width: 450px) {
     html {
